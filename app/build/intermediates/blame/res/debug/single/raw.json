@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\build\\intermediates\\res\\merged\\debug\\raw\\leao.mp3",
+        "source": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\src\\main\\res\\raw\\leao.mp3"
+    },
+    {
+        "merged": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ovelha.mp3",
+        "source": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\src\\main\\res\\raw\\ovelha.mp3"
+    },
+    {
+        "merged": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cao.mp3",
+        "source": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\src\\main\\res\\raw\\cao.mp3"
+    },
+    {
+        "merged": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\build\\intermediates\\res\\merged\\debug\\raw\\macaco.mp3",
+        "source": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\src\\main\\res\\raw\\macaco.mp3"
+    },
+    {
+        "merged": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vaca.mp3",
+        "source": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\src\\main\\res\\raw\\vaca.mp3"
+    },
+    {
+        "merged": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gato.mp3",
+        "source": "C:\\Users\\MJ\\AndroidStudioProjects\\Sonsdebichos\\app\\src\\main\\res\\raw\\gato.mp3"
+    }
+]
